@@ -1,5 +1,5 @@
 body{
-  background-image:url(p.jpg);
+  background-image:url(n.jpg);
 }
 h1{
   font-weight: 25%;
@@ -7,10 +7,16 @@ h1{
 .c3nter{
   width: 450px;
   background: rgba(0,0,0,0.4);
-  padding: 20px;
+  padding: 10px;
   text-align: center;
   margin: auto;
   margin-top: 15%;
   color: white;
   font-family: cursive;
+}
+h4{
+  color: #E0E0E0E0;
+}
+h2{
+  color: blue;
 }
